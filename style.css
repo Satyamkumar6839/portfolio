@@ -74,20 +74,22 @@ color:white;
     background: white;
 }
 .skill{
-margin:20px 0;
+margin:20px auto;
+width:60%;
+text-align:left;
 }
 
 .progress{
-width:80%;
+width:100%;
 background:#333;
-height:10px;
-border-radius:5px;
-margin:auto;
+height:12px;
+border-radius:10px;
+margin-top:5px;
 }
 
 .progress-bar{
-height:10px;
-border-radius:5px;
+height:12px;
+border-radius:10px;
 background:#00ffff;
 }
 
@@ -106,5 +108,3 @@ width:65%;
 .ai{
 width:60%;
 }
-
-
