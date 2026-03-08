@@ -114,3 +114,34 @@ width:65%;
 .ai{
 width:60%;
 }
+.progress-bar{
+height:12px;
+background:#00ff88;
+border-radius:10px;
+animation:fillbar 2s ease-in-out;
+}
+
+@keyframes fillbar{
+from{
+width:0;
+}
+to{
+width:100%;
+}
+}
+.python{
+width:80%;
+}
+
+.html{
+width:70%;
+}
+
+.css{
+width:65%;
+}
+
+.ai{
+width:60%;
+}
+
