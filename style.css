@@ -144,4 +144,11 @@ width:65%;
 .ai{
 width:60%;
 }
+#particles-js{
+position:fixed;
+width:100%;
+height:100%;
+z-index:-1;
+background:#0f172a;
+}
 
