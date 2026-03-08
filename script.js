@@ -10,3 +10,22 @@ function typeEffect() {
 }
 
 typeEffect();
+
+particlesJS("particles-js", {
+  particles: {
+    number: { value: 80 },
+    size: { value: 3 },
+    color: { value: "#00ffff" },
+    line_linked: {
+      enable: true,
+      distance: 150,
+      color: "#00ffff",
+      opacity: 0.4
+    },
+    move: {
+      speed: 2
+    }
+  }
+});
+
+
