@@ -73,3 +73,38 @@ color:white;
 .btn:hover {
     background: white;
 }
+.skill{
+margin:20px 0;
+}
+
+.progress{
+width:80%;
+background:#333;
+height:10px;
+border-radius:5px;
+margin:auto;
+}
+
+.progress-bar{
+height:10px;
+border-radius:5px;
+background:#00ffff;
+}
+
+.python{
+width:80%;
+}
+
+.html{
+width:70%;
+}
+
+.css{
+width:65%;
+}
+
+.ai{
+width:60%;
+}
+
+
